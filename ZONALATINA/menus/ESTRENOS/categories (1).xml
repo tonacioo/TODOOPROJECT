@@ -4,8 +4,8 @@
 	  <!-- banner_ad: optional element which displays an at the top level category screen -->
 	  <banner_ad sd_img="https://devtools.web.roku.com/videoplayer/images/missing.png" hd_img="https://devtools.web.roku.com/videoplayer/images/missing.png"/>
 	  
-	<category title="Technology" description="TED Talks on Technology" sd_img="https://devtools.web.roku.com/videoplayer/images/TED_Technology.png" hd_img="https://devtools.web.roku.com/videoplayer/images/TED_Technology.png">
-		<categoryLeaf title="The Mind" description="" feed="https://devtools.web.roku.com/videoplayer/xml/themind.xml"/>
+	<category title="Estrenos" description="la reencarnacion" sd_img="https://devtools.web.roku.com/videoplayer/images/TED_Technology.png" hd_img="https://devtools.web.roku.com/videoplayer/images/TED_Technology.png">
+		<categoryLeaf title="La reencarnacion" description="" feed=http://tecnotv.xyz/media/reencarnacion"/>
 		<categoryLeaf title="Global Issues" description="" feed="https://devtools.web.roku.com/videoplayer/xml/globalissues.xml" />
 	</category>
 

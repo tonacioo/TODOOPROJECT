@@ -1,45 +1,98 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="ISO-8859-1"?>
 
-<!--
-'********************************************************************
-'
-'       NewVideoPlayer - Example Multi-Level Roku Channel
-'
-' Copyright (c) 2015, belltown. All rights reserved. See LICENSE.txt
-'
-'*********************************************************************
--->
+-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 
-<!-- Only content_type="video" is currently supported -->
-<feed content_type="video" sd_img="http://twit.cachefly.net/coverart/kh/kh144videolo.jpg" hd_img="http://twit.cachefly.net/coverart/kh/kh144videolo.jpg">
-<element>
-	<Video>
-		<Title>Jeff Han demos his Breakthrough Touchscreen</Title>
-		<description>pelos</description>
-		<link>http://video.ted.com/talks/podcast/JeffHan_2006_480.mp4</link>
-	</Video>
-	<Video>
-		<Title>David Kelley on Human-Centered Design</Title>
-		<Image>http://rokudev.roku.com/rokudev/examples/videoplayer/images/DavidKelley.jpg</Image>
-		<Url>http://video.ted.com/talks/podcast/DavidKelley_2002_480.mp4</Url>
-	</Video>
-	<Video>
-		<Title>Imogen Heap Plays 'Wait It Out'</Title>
-		<Image>http://rokudev.roku.com/rokudev/examples/videoplayer/images/ImogenHeap.jpg</Image>
-		<Url>http://video.ted.com/talks/podcast/ImogenHeap_WaitItOut_2009G_480.mp4</Url>
-	</Video>
-	<Video>
-		<Title>Naturally 7 Beatboxes a Whole Band</Title>
-		<Image>http://rokudev.roku.com/rokudev/examples/videoplayer/images/Naturally7.jpg</Image>
-		<Url>http://video.ted.com/talks/podcast/Naturally7FLYBABY_2009_480.mp4</Url>
-	</Video>
-	<Video>
-		<Title>Juan Enriquez Wants to Grow Energy</Title>
-		<Image>http://rokudev.roku.com/rokudev/examples/videoplayer/images/JuanEnriquez.jpg</Image>
-		<Url>http://video.ted.com/talks/podcast/JuanEnriquez_2007S_480.mp4</Url>
-	</Video>	
-</element>
 
-   
+-<channel>
 
-</feed>
+<title>AutomateExcel</title>
+
+<link>http://www.automateexcel.com</link>
+
+<description>A site about Excel you should visit every day!</description>
+
+<language>en-us</language>
+
+
+-<item>
+
+<title>Naruto episode 1</title>
+
+<link>https://upload.wikimedia.org/wikipedia/en/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg</link>
+
+
+-<description>
+
+<![CDATA[ probando ]]>
+
+</description>
+
+</item>
+
+
+-<item>
+
+<title>Naruto episode 2</title>
+
+<link>https://upload.wikimedia.org/wikipedia/en/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg</link>
+
+
+-<description>
+
+<![CDATA[ probando ]]>
+
+</description>
+
+</item>
+
+
+-<item>
+
+<title>Naruto episode 3</title>
+
+<link>https://upload.wikimedia.org/wikipedia/en/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg</link>
+
+
+-<description>
+
+<![CDATA[ probando ]]>
+
+</description>
+
+</item>
+
+
+-<item>
+
+<title>Naruto episode 4</title>
+
+<link>https://upload.wikimedia.org/wikipedia/en/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg</link>
+
+
+-<description>
+
+<![CDATA[ probando ]]>
+
+</description>
+
+</item>
+
+
+-<item>
+
+<title>Naruto episode 5</title>
+
+<link>https://upload.wikimedia.org/wikipedia/en/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg</link>
+
+
+-<description>
+
+<![CDATA[ probando ]]>
+
+</description>
+
+</item>
+
+</channel>
+
+</rss>

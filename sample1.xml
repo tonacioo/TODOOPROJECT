@@ -6,8 +6,8 @@
 
     <!-- Can either use sd_img/hd_img on the <feed> element or sdImg/hdImg on individual <item> elements-->
     <item sdImg="http://twit.cachefly.net/coverart/kh/kh144videolo.jpg" hdImg="http://twit.cachefly.net/coverart/kh/kh144videolo.jpg">
-        <title>KH 172: Maker Gift Guide</title>
-        <contentId>TWIT-KH0172</contentId>
+        <title>naruto episode 1</title>
+        <contentId>episode 1</contentId>
         <contentType>episode</contentType>
         <contentQuality>HD</contentQuality>
         <fullHD>True</fullHD>
@@ -32,7 +32,7 @@
             <streamUrl>http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/kh/kh0172/kh0172_h264m_1280x720_1872.mp4</streamUrl>
         </media>
         <synopsis>
-Holiday gift guide for your maker geek!
+peelosss
 
 For full show notes, visit http://twit.tv/kh/172
         </synopsis>
@@ -40,7 +40,7 @@ For full show notes, visit http://twit.tv/kh/172
         <genres>How To</genres>
         <runtime>3945</runtime>
         <!---->
-        <description>Holiday gift guide for your maker geek!</description>
+        <description>yo que seeeee!</description>
         <streamFormat>mp4</streamFormat>
         <rating>PG-13</rating>
         <starRating>80</starRating>

@@ -1,19 +1,36 @@
-Test Player Config Output
-
-{
-  "playlist": [
+{"providerName": "TVByDemand Productions",
+  "lastUpdated": "2017-03-01T21:37:37+00:00",
+  "language": "en",
+  "movies": [
     {
-      "sources": [
-        {
-          "default": false,
-          "file": "https://content.jwplatform.com/manifests/pVI22mfa.m3u8",
-          "label": "0",
-          "type": "hls",
-          "preload": "none"
-        }
+      "id": "1",
+      "title": "The OutLaws Den 03-06-2015",
+      "content": {
+        "dateAdded": "2015-11-11T22:21:37+00:00",
+        "videos": [
+          {
+            "url": "http://www.tvbydemand.com/media2/iis/old/2015-03-06/iis/finished.ism/manifest",
+            "quality": "SD",
+            "videoType": "SMOOTH"
+          }
+        ],
+        "duration": 2408
+      },
+      "genres": [
+        "sports",
+        "special",
+        "news"
+      ],
+      "thumbnail": "http://www.tvbydemand.com/old.jpg",
+      "releaseDate": "2015-03-06",
+      "shortDescription": "The OutLaws Den 03-06-2015 all the happenings in Loco Wrestling",
+      "longDescription": "A series of TV shows started By the Outlaw Frankie G to inform the fans of what is going on in the world of DWF/Loco",
+      "tags": [
+        "amazing",
+        "drama",
+        "comedy",
+        "pro wrestling"
       ]
     }
-  ],
-  "primary": "html5",
-  "hlshtml": true
+  ]
 }

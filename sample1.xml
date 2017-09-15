@@ -12,11 +12,11 @@
 
 <!-- Only content_type="video" is currently supported -->
 <feed content_type="video" sd_img="http://twit.cachefly.net/coverart/kh/kh144videolo.jpg" hd_img="http://twit.cachefly.net/coverart/kh/kh144videolo.jpg">
-<Videos>
+<element>
 	<Video>
 		<Title>Jeff Han demos his Breakthrough Touchscreen</Title>
-		<Image>http://rokudev.roku.com/rokudev/examples/videoplayer/images/JeffHan.jpg</Image>
-		<Url>http://video.ted.com/talks/podcast/JeffHan_2006_480.mp4</Url>
+		<description>pelos</description>
+		<link>http://video.ted.com/talks/podcast/JeffHan_2006_480.mp4</link>
 	</Video>
 	<Video>
 		<Title>David Kelley on Human-Centered Design</Title>
@@ -38,7 +38,7 @@
 		<Image>http://rokudev.roku.com/rokudev/examples/videoplayer/images/JuanEnriquez.jpg</Image>
 		<Url>http://video.ted.com/talks/podcast/JuanEnriquez_2007S_480.mp4</Url>
 	</Video>	
-</Videos>
+</element>
 
    
 

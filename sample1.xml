@@ -1,96 +1,60 @@
--<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+-<Videos>
 
 
--<channel>
+-<Video>
 
-<title>AutomateExcel</title>
+<Title>Jeff Han demos his Breakthrough Touchscreen</Title>
 
-<link>http://www.automateexcel.com</link>
+<Image>http://rokudev.roku.com/rokudev/examples/videoplayer/images/JeffHan.jpg</Image>
 
-<description>A site about Excel you should visit every day!</description>
+<Url>http://video.ted.com/talks/podcast/JeffHan_2006_480.mp4</Url>
 
-<language>en-us</language>
-
-
--<item>
-
-<title>Naruto episode 1</title>
-
-<link>https://upload.wikimedia.org/wikipedia/en/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg</link>
+</Video>
 
 
--<description>
+-<Video>
 
-<![CDATA[ probando ]]>
+<Title>David Kelley on Human-Centered Design</Title>
 
-</description>
+<Image>http://rokudev.roku.com/rokudev/examples/videoplayer/images/DavidKelley.jpg</Image>
 
-</item>
+<Url>http://video.ted.com/talks/podcast/DavidKelley_2002_480.mp4</Url>
 
-
--<item>
-
-<title>Naruto episode 2</title>
-
-<link>https://upload.wikimedia.org/wikipedia/en/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg</link>
+</Video>
 
 
--<description>
+-<Video>
 
-<![CDATA[ probando ]]>
+<Title>Imogen Heap Plays 'Wait It Out'</Title>
 
-</description>
+<Image>http://rokudev.roku.com/rokudev/examples/videoplayer/images/ImogenHeap.jpg</Image>
 
-</item>
+<Url>http://video.ted.com/talks/podcast/ImogenHeap_WaitItOut_2009G_480.mp4</Url>
 
-
--<item>
-
-<title>Naruto episode 3</title>
-
-<link>https://upload.wikimedia.org/wikipedia/en/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg</link>
+</Video>
 
 
--<description>
+-<Video>
 
-<![CDATA[ probando ]]>
+<Title>Naturally 7 Beatboxes a Whole Band</Title>
 
-</description>
+<Image>http://rokudev.roku.com/rokudev/examples/videoplayer/images/Naturally7.jpg</Image>
 
-</item>
+<Url>http://video.ted.com/talks/podcast/Naturally7FLYBABY_2009_480.mp4</Url>
 
-
--<item>
-
-<title>Naruto episode 4</title>
-
-<link>https://upload.wikimedia.org/wikipedia/en/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg</link>
+</Video>
 
 
--<description>
+-<Video>
 
-<![CDATA[ probando ]]>
+<Title>Juan Enriquez Wants to Grow Energy</Title>
 
-</description>
+<Image>http://rokudev.roku.com/rokudev/examples/videoplayer/images/JuanEnriquez.jpg</Image>
 
-</item>
+<Url>http://video.ted.com/talks/podcast/JuanEnriquez_2007S_480.mp4</Url>
 
+</Video>
 
--<item>
-
-<title>Naruto episode 5</title>
-
-<link>https://upload.wikimedia.org/wikipedia/en/a/ad/Naruto_-_Shippuden_DVD_season_1_volume_1.jpg</link>
-
-
--<description>
-
-<![CDATA[ probando ]]>
-
-</description>
-
-</item>
-
-</channel>
-
-</rss>
+</Videos>

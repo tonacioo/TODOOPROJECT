@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Only content_type="video" is currently supported -->
+<feed content_type="video" hd_img="https://ibhuluimcom-a.akamaihd.net/ib.huluim.com/show/1304?region=US&size=952x536">
+     <item hdImg="https://ibhuluimcom-a.akamaihd.net/ib.huluim.com/show/1304?region=US&size=952x536">
+          <title>naruto 1</title>
+          <contentId>TWIT-KH0172</contentId>
+          <contentType>episode</contentType>
+          <contentQuality>HD</contentQuality>
+          <fullHD>True</fullHD>
+          <streamFormat>mp4</streamFormat> 
+
+         <media>
+            <streamFormat>mkv</streamFormat>
+            <streamQuality>HD</streamQuality>
+            <streamBitrate>1872</streamBitrate>
+            <streamUrl>http://s8.bitdownload.ir/Series/Naruto.Shippuuden/Naruto.Shippuuden.E001.bitdownload.ir.mkv</streamUrl>
+         </media> 
+    </item>  
+</feed>

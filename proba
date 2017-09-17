@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <categories>
+      <element>
+         <name>Recent Messages</name>
+         <order>manual</order>
+         <playlistName>recent-messages</playlistName>
+      </element>
+      <element>
+         <name>Live Stream</name>
+         <order>manual</order>
+         <playlistName>live</playlistName>
+      </element>
+      <element>
+         <name>Music Videos</name>
+         <order>manual</order>
+         <playlistName>music-videos</playlistName>
+      </element>
+   </categories>
+   <language>en-US</language>
+   <lastUpdated>2017-04-30T18:12:32.125Z</lastUpdated>
+   <playlists>
+      <element>
+         <itemIds>
+            <element>20170827</element>
+            <element>20170820</element>
+            <element>20170813</element>
+            <element>20170806</element>
+            <element>20170730</element>
+            <element>20170723</element>
+            <element>20170716</element>
+            <element>20170709</element>
+            <element>20170702</element>
+            <element>20170625</element>
+            <element>20170618</element>
+            <element>20170611</element>
+            <element>20170604</element>
+            <element>20170528</element>
+            <element>20170521</element>
+            <element>20170514</element>
+            <element>20170507</element>
+            <element>20170430</element>
+            <element>20170423</element>
+            <element>20170416</element>
+            <element>20170409</element>
+            <element>20170402</element>
+            <element>20170326</element>
+            <element>20170319</element>
+            <element>20170312</element>
+            <element>20170305</element>
+         </itemIds>
+         <name>recent-messages</name>
+      </element>
+      <element>
+         <itemIds>
+            <element>00001</element>
+         </itemIds>
+         <name>music-videos</name>
+      </element>
+      <element>
+         <itemIds>
+            <element>20170101</element>
+         </itemIds>
+         <name>live</name>
+      </element>
+   </playlists>
+   <providerName>Hope Point Church</providerName>
+   <tvSpecials>
+      <element>
+         <content>
+            <captions />
+            <dateAdded>2017-08-27T14:14:54.431Z</dateAdded>
+            <duration>2570</duration>
+            <videos>
+               <element>
+                  <quality>HD</quality>
+                  <url>https://player.vimeo.com/external/231321056.m3u8?s=ee5ca466fee2f33c5491a0a6bd7b8c78912fd913</url>
+                  <videoType>HLS</videoType>
+               </element>
+            </videos>
+         </content>
+         <genres>
+            <element>faith</element>
+         </genres>
+         <id>201708127</id>
+         <releaseDate>2017-08-27</releaseDate>
+         <shortDescription>Speaker: Richard Smith</shortDescription>
+         <tags>
+            <element>faith</element>
+         </tags>
+         <thumbnail>https://s3.amazonaws.com/hopepoint/Sermon-Stills/2017-08-27-the-focus-of-the-fulfilled.jpg</thumbnail>
+         <title>The Focus of the Fulfilled</title>
+      </element>
+      <element>
+         <content>
+            <captions />
+            <dateAdded>2017-08-20T14:14:54.431Z</dateAdded>
+            <duration>2624</duration>
+            <videos>
+               <element>
+                  <quality>HD</quality>
+                  <url>https://player.vimeo.com/external/230389305.m3u8?s=92ce90ed84d8512e7e16da5968505f1b1d5a09c1</url>
+                  <videoType>HLS</videoType>
+               </element>
+            </videos>
+         </content>
+         <genres>
+            <element>faith</element>
+         </genres>
+         <id>201708120</id>
+         <releaseDate>2017-08-20</releaseDate>
+         <shortDescription>Speaker: Richard Smith</shortDescription>
+         <tags>
+            <element>faith</element>
+         </tags>
+         <thumbnail>https://s3.amazonaws.com/hopepoint/Sermon-Stills/2017-08-20.jpg</thumbnail>
+         <title>Meek Hearts and Massive Joy</title>
+      </element>
+      <element>
+         <content>
+            <captions />
+            <dateAdded>2017-08-13T14:14:54.431Z</dateAdded>
+            <duration>2598</duration>
+            <videos>
+               <element>
+                  <quality>HD</quality>
+                  <url>https://player.vimeo.com/external/229502113.m3u8?s=6dd1a2b957b3fe4ce44e30dc5d3e45540b11f83a</url>
+                  <videoType>HLS</videoType>
+               </element>
+            </videos>
+         </content>
+         <genres>
+            <element>faith</element>
+         </genres>
+         <id>20170813</id>
+         <releaseDate>2017-08-13</releaseDate>
+         <shortDescription>Speaker: Richard Smith</shortDescription>
+         <tags>
+            <element>faith</element>
+         </tags>
+         <thumbnail>https://s3.amazonaws.com/hopepoint/Sermon-Stills/2017-08-13-good-mourning.jpg</thumbnail>
+         <title>Good Mourning</title>
+      </element>
+      <element>
+         <content>
+            <captions />
+            <dateAdded>2017-08-06T14:14:54.431Z</dateAdded>
+            <duration>2326</duration>
+            <videos>
+               <element>
+                  <quality>HD</quality>
+                  <url>https://player.vimeo.com/external/228581906.m3u8?s=8943ff8285e8c6436d3df4dabf9a29a01bde9531</url>
+                  <videoType>HLS</videoType>
+               </element>
+            </videos>
+         </content>
+         <genres>
+            <element>faith</element>
+         </genres>
+         <id>20170806</id>
+         <releaseDate>2017-08-06</releaseDate>
+         <shortDescription>Speaker: Richard Smith</shortDescription>
+         <tags>
+            <element>faith</element>
+         </tags>
+         <thumbnail>https://s3.amazonaws.com/hopepoint/Sermon-Stills/2017-08-06-happy-kingdom-for-poor-hearts.jpg</thumbnail>
+         <title>A Happy Kingdom for Poor Hearts</title>
+      </element>
+      <element>
+         <content>
+            <captions />
+            <dateAdded>2017-07-30T14:14:54.431Z</dateAdded>
+            <duration>2588</duration>
+            <videos>
+               <element>
+                  <quality>HD</quality>
+                  <url>https://player.vimeo.com/external/227761348.m3u8?s=7b88b33294771f938b7001b65316891adbbd30c6</url>
+                  <videoType>HLS</videoType>
+               </element>
+            </videos>
+         </content>
+         <genres>
+            <element>faith</element>
+         </genres>
+         <id>20170730</id>
+         <releaseDate>2017-07-30</releaseDate>
+         <shortDescription>Speaker: Guest Speaker</shortDescription>
+         <tags>
+            <element>faith</element>
+         </tags>
+         <thumbnail>https://s3.amazonaws.com/hopepoint/Sermon-Stills/2017-07-30-walking-by-faith-waiting-upon-the-work-of-god.jpg</thumbnail>
+         <title>Walking by Faith: Waiting Upon the Work of God</title>
+      </element>
+      <element>
+         <content>
+            <captions />
+            <dateAdded>2017-07-23T14:14:54.431Z</dateAdded>
+            <duration>2703</duration>
+            <videos>
+               <element>
+                  <quality>HD</quality>
+                  <url>https://player.vimeo.com/external/226655802.m3u8?s=dee8c80748eb66923e30f1336dac1993448b22dc</url>
+                  <videoType>HLS</videoType>
+               </element>
+            </videos>
+         </content>
+         <genres>
+            <element>faith</element>
+         </genres>
+         <id>20170723</id>
+         <releaseDate>2017-07-23</releaseDate>
+         <shortDescription>Speaker: Richard Smith</shortDescription>
+         <tags>
+            <element>faith</element>
+         </tags>
+         <thumbnail>https://s3.amazonaws.com/hopepoint/Sermon-Stills/2017-07-23.jpg</thumbnail>
+         <title>Giant Faith</title>
+      </element>
+      <element>
+         <content>
+            <captions />
+            <dateAdded>2017-07-16T14:14:54.431Z</dateAdded>
+            <duration>2359</duration>
+            <videos>
+               <element>
+                  <quality>HD</quality>
+                  <url>https://player.vimeo.com/external/225788757.m3u8?s=0968b393e550602a0ad7be7e010d98493f91e627</url>
+                  <videoType>HLS</videoType>
+               </element>
+            </videos>
+         </content>
+         <genres>
+            <element>faith</element>
+         </genres>
+         <id>20170716</id>
+         <releaseDate>2017-07-16</releaseDate>
+         <shortDescription>Speaker: Ronny Marmol</shortDescription>
+         <tags>
+            <element>faith</element>
+         </tags>
+         <thumbnail>https://s3.amazonaws.com/hopepoint/Sermon-Stills/2017-07-16.jpg</thumbnail>
+         <title>An Assured Salvation And A Mission To The Lost</title>
+      </element>
+      <element>
+         <content>
+            <captions />
+            <dateAdded>2017-07-09T14:14:54.431Z</dateAdded>
+            <duration>2222</duration>
+            <videos>
+               <element>
+                  <quality>HD</quality>
+                  <url>https://player.vimeo.com/external/224966580.m3u8?s=8039220d15ddb397e6328e4ab22d39dc88971175</url>
+                  <videoType>HLS</videoType>
+               </element>
+            </videos>
+         </content>
+         <genres>
+            <element>faith</element>
+         </genres>
+         <id>20170709</id>
+         <releaseDate>2017-07-09</releaseDate>
+         <shortDescription>Speaker: Mike Chibbaro</shortDescription>
+         <tags>
+            <element>faith</element>
+         </tags>
+         <thumbnail>https://s3.amazonaws.com/hopepoint/Sermon-Stills/2017-07-09-how-can-i-be-sure.jpg</thumbnail>
+         <title>How Can I Be Sure?</title>
+      </element>
+      <element>
+         <content>
+            <captions />
+            <dateAdded>2017-07-02T14:14:54.431Z</dateAdded>
+            <duration>2457</duration>
+            <videos>
+               <element>
+                  <quality>HD</quality>
+                  <url>https://player.vimeo.com/external/224071840.m3u8?s=a39326c608416bd1bd7ab3d999ebac11d239156c</url>
+                  <videoType>HLS</videoType>
+               </element>
+            </videos>
+         </content>
+         <genres>
+            <element>faith</element>
+         </genres>
+         <id>20170702</id>
+         <releaseDate>2017-07-02</releaseDate>
+         <shortDescription>Speaker: Dan Yacoviello</shortDescription>
+         <tags>
+            <element>faith</element>
+         </tags>
+         <thumbnail>https://s3.amazonaws.com/hopepoint/Sermon-Stills/two-daughters.jpg</thumbnail>
+         <title>Two Daughters: Desperation, Faith and Miracles</title>
+      </element>
+      <element>
+         <content>
+            <captions />
+            <dateAdded>2017-06-25T14:14:54.431Z</dateAdded>
+            <duration>2232</duration>
+            <videos>
+               <element>
+                  <quality>HD</quality>
+                  <url>https://player.vimeo.com/external/223147860.m3u8?s=289f6253fe0a7715df0421ee97510863ea98af22</url>
+                  <videoType>HLS</videoType>
+               </element>
+            </videos>
+         </content>
+         <genres>
+            <element>faith</element>
+         </genres>
+         <id>20170625</id>
+         <releaseDate>2017-06-25</releaseDate>
+         <shortDescription>Speaker: Richard Smith</shortDescription>
+         <tags>
+            <element>faith</element>
+         </tags>
+         <thumbnail>https://s3.amazonaws.com/hopepoint/Sermon-Stills/2017-06-25.jpg</thumbnail>
+         <title>False Motives Versus Faithful Scars</title>
+      </element>
+      <element>
+         <content>
+            <captions />
+            <dateAdded>2017-06-18T14:14:54.431Z</dateAdded>
+            <duration>2292</duration>
+            <videos>
+               <element>
+                  <quality>HD</quality>
+                  <url>https://player.vimeo.com/external/222111160.m3u8?s=f796cb1824b7efb51673bd12f1f05bba820431d7</url>
+                  <videoType>HLS</videoType>
+               </element>
+            </videos>
+         </content>
+         <genres>
+            <element>faith</element>
+         </genres>
+         <id>20170618</id>
+         <releaseDate>2017-06-18</releaseDate>
+         <shortDescription>Speaker: Richard Smith</shortDescription>
+         <tags>
+            <element>faith</element>
+         </tags>
+         <thumbnail>https://s3.amazonaws.com/hopepoint/Sermon-Stills/2017-06-18.jpg</thumbnail>
+         <title>Extraordinary Husbands, Miraculous Fathers</title>
+      </element>
+      <element>
+         <content>
+            <captions />
+            <dateAdded>2017-06-11T14:14:54.431Z</dateAdded>
+            <duration>2351</duration>
+            <videos>
+               <element>
+                  <quality>HD</quality>
+                  <url>https://player.vimeo.com/external/221288905.m3u8?s=a60ed965fdbb7c751868e426b1807acffef8fbb3</url>
+                  <videoType>HLS</videoType>
+               </element>
+            </videos>
+         </content>
+         <genres>
+            <element>faith</element>
+         </genres>
+         <id>20170611</id>
+         <releaseDate>2017-06-11</releaseDate>
+         <shortDescription>Speaker: Richard Smith</shortDescription>
+         <tags>
+            <element>faith</element>
+         </tags>
+         <thumbnail>https://s3.amazonaws.com/hopepoint/Sermon-Stills/2017-06-11-come-to-the-rest-giving-savior.jpg</thumbnail>
+         <title>Come To The Rest-Giving Savior</title>
+      </element>
+      <element>
+         <content>
+            <captions />
+            <dateAdded>2017-06-04T14:14:54.431Z</dateAdded>
+            <duration>2373</duration>
+            <videos>
+               <element>
+                  <quality>HD</quality>
+                  <url>https://player.vimeo.com/external/221595848.m3u8?s=1b55c33f998e46e91fff083eff58375c67a38e22</url>
+                  <videoType>HLS</videoType>
+               </element>
+            </videos>
+         </content>
+         <genres>
+            <element>faith</element>
+         </genres>
+         <id>20170604</id>
+         <releaseDate>2017-06-04</releaseDate>
+         <shortDescription>Speaker: Dan Yacoviello</shortDescription>
+         <tags>
+            <element>faith</element>
+         </tags>
+         <thumbnail>https://s3.amazonaws.com/hopepoint/Sermon-Stills/2017-06-04-a-portrait-of-christ.jpg</thumbnail>
+         <title>A Portrait of Christ</title>
+      </element>
+      <element>
+         <content>
+            <captions />
+            <dateAdded>2017-05-28T14:14:54.431Z</dateAdded>
+            <duration>2796</duration>
+            <videos>
+               <element>
+                  <quality>HD</quality>
+                  <url>https://player.vimeo.com/external/219703471.m3u8?s=a909c6add762c7809037f053d24c72e33b2f372b</url>
+                  <videoType>HLS</videoType>
+               </element>
+            </videos>
+         </content>
+         <genres>
+            <element>faith</element>
+         </genres>
+         <id>20170528</id>
+         <releaseDate>2017-05-28</releaseDate>
+         <shortDescription>Speaker: Richard Smith</shortDescription>
+         <tags>
+            <element>faith</element>
+         </tags>
+         <thumbnail>https://s3.amazonaws.com/hopepoint/Sermon-Stills/the-law-of-the-harvest.jpg</thumbnail>
+         <title>The Law Of The Harvest</title>
+      </element>
+      <element>
+         <content>
+            <captions />
+            <dateAdded>2017-05-21T14:14:54.431Z</dateAdded>
+            <duration>2875</duration>
+            <videos>
+               <element>
+                  <quality>HD</quality>
+                  <url>https://player.vimeo.com/external/218468826.m3u8?s=6e33ae65ab684c9e572859984e46365c0d185040</url>
+                  <videoType>HLS</videoType>
+               </element>
+            </videos>
+         </content>
+         <genres>
+            <element>faith</element>
+         </genres>
+         <id>20170521</id>
+         <releaseDate>2017-05-21</releaseDate>
+         <shortDescription>Speaker: Richard Smith</shortDescription>
+         <tags>
+            <element>faith</element>
+         </tags>
+         <thumbnail>https://s3.amazonaws.com/hopepoint/Sermon-Stills/2017-04-23-it-really-is-a-supernatural-life.jpg</thumbnail>
+         <title>It's More Than Me Only</title>
+      </element>
+      <element>
+         <content>
+            <captions />
+            <dateAdded>2017-05-14T14:14:54.431Z</dateAdded>
+            <duration>2002</duration>
+            <videos>
+               <element>
+                  <quality>HD</quality>
+                  <url>https://player.vimeo.com/external/217893150.m3u8?s=3630dce4db65fa18c75d61191a155f963ff3f3dc</url>
+                  <videoType>HLS</videoType>
+               </element>
+            </videos>
+         </content>
+         <genres>
+            <element>faith</element>
+         </genres>
+         <id>20170514</id>
+         <releaseDate>2017-05-14</releaseDate>
+         <shortDescription>Speaker: Phyllis Hendry</shortDescription>
+         <tags>
+            <element>faith</element>
+         </tags>
+         <thumbnail>https://s3.amazonaws.com/hopepoint/Sermon-Stills/2017-05-14-overcoming-fear-with-overcoming-love.jpg</thumbnail>
+         <title>Overcoming Fear By Overwhelming Love</title>
+      </element>
+      <element>
+         <content>
+            <captions />
+            <dateAdded>2017-05-07T14:14:54.431Z</dateAdded>
+            <duration>2737</duration>
+            <videos>
+               <element>
+                  <quality>HD</quality>
+                  <url>https://player.vimeo.com/external/216528930.m3u8?s=20dbccc286591facafc43ad086ab65cc67a6eb3a</url>
+                  <videoType>HLS</videoType>
+               </element>
+            </videos>
+         </content>
+         <genres>
+            <element>faith</element>
+         </genres>
+         <id>20170507</id>
+         <releaseDate>2017-05-07</releaseDate>
+         <shortDescription>Speaker: Richard Smith</shortDescription>
+         <tags>
+            <element>faith</element>
+         </tags>
+         <thumbnail>https://s3.amazonaws.com/hopepoint/Sermon-Stills/2017-05-07-the-boundary-of-self-control.jpg</thumbnail>
+         <title>The Boundary of Self-Control</title>
+      </element>
+      <element>
+         <content>
+            <captions />
+            <dateAdded>2017-04-30T14:14:54.431Z</dateAdded>
+            <duration>2246</duration>
+            <videos>
+               <element>
+                  <quality>HD</quality>
+                  <url>https://player.vimeo.com/external/215509154.m3u8?s=d145feabd11478b80b5e0c5af6ce12c5226b73e3</url>
+                  <videoType>HLS</videoType>
+               </element>
+            </videos>
+         </content>
+         <genres>
+            <element>faith</element>
+         </genres>
+         <id>20170430</id>
+         <releaseDate>2017-04-30</releaseDate>
+         <shortDescription>Speaker: Richard Smith</shortDescription>
+         <tags>
+            <element>faith</element>
+         </tags>
+         <thumbnail>https://s3.amazonaws.com/hopepoint/Sermon-Stills/2017-04-30-honoring-god-through-a-gentle-and-fierce-life.jpg</thumbnail>
+         <title>Honoring God Through A Gentle And Fierce Life</title>
+      </element>
+      <element>
+         <content>
+            <captions />
+            <dateAdded>2017-04-23T14:14:54.431Z</dateAdded>
+            <duration>2246</duration>
+            <videos>
+               <element>
+                  <quality>HD</quality>
+                  <url>https://player.vimeo.com/external/214512798.m3u8?s=61ab1de30c7356ce4bc8993b76b8fdad640677d9</url>
+                  <videoType>HLS</videoType>
+               </element>
+            </videos>
+         </content>
+         <genres>
+            <element>faith</element>
+         </genres>
+         <id>20170423</id>
+         <releaseDate>2017-04-23</releaseDate>
+         <shortDescription>Speaker: Richard Smith</shortDescription>
+         <tags>
+            <element>faith</element>
+         </tags>
+         <thumbnail>https://s3.amazonaws.com/hopepoint/Sermon-Stills/2017-04-23-it-really-is-a-supernatural-life.jpg</thumbnail>
+         <title>It Really Is A Supernatural Life</title>
+      </element>
+      <element>
+         <content>
+            <captions />
+            <dateAdded>2017-04-16T14:14:54.431Z</dateAdded>
+            <duration>2121</duration>
+            <videos>
+               <element>
+                  <quality>HD</quality>
+                  <url>https://player.vimeo.com/external/213519262.m3u8?s=6ccad4fc5edd9a4d4864e5ac28d6862757571175</url>
+                  <videoType>HLS</videoType>
+               </element>
+            </videos>
+         </content>
+         <genres>
+            <element>faith</element>
+         </genres>
+         <id>20170416</id>
+         <releaseDate>2017-04-16</releaseDate>
+         <shortDescription>Speaker: Richard Smith</shortDescription>
+         <tags>
+            <element>faith</element>
+         </tags>
+         <thumbnail>https://s3.amazonaws.com/hopepoint/Sermon-Stills/he-stepped-forward-small.jpg</thumbnail>
+         <title>He Stepped Forward</title>
+      </element>
+      <element>
+         <content>
+            <captions />
+            <dateAdded>2017-04-09T14:14:54.431Z</dateAdded>
+            <duration>2181</duration>
+            <videos>
+               <element>
+                  <quality>HD</quality>
+                  <url>https://player.vimeo.com/external/212601306.m3u8?s=e8683f3722dcccdf3ebb7699c6e7a0756a53581e</url>
+                  <videoType>HLS</videoType>
+               </element>
+            </videos>
+         </content>
+         <genres>
+            <element>faith</element>
+         </genres>
+         <id>20170409</id>
+         <releaseDate>2017-04-09</releaseDate>
+         <shortDescription>Speaker: Dan Yacoviello</shortDescription>
+         <tags>
+            <element>faith</element>
+         </tags>
+         <thumbnail>https://s3.amazonaws.com/hopepoint/Sermon-Stills/2017-04-09-the-fatal-exchange.jpg</thumbnail>
+         <title>The Fatal Exchange</title>
+      </element>
+      <element>
+         <content>
+            <captions />
+            <dateAdded>2017-04-02T14:14:54.431Z</dateAdded>
+            <duration>2740</duration>
+            <videos>
+               <element>
+                  <quality>HD</quality>
+                  <url>https://player.vimeo.com/external/211335067.m3u8?s=3a5b4c9ccd9789387aceec8f672e8dc6ddb46bb2</url>
+                  <videoType>HLS</videoType>
+               </element>
+            </videos>
+         </content>
+         <genres>
+            <element>faith</element>
+         </genres>
+         <id>20170402</id>
+         <releaseDate>2017-04-02</releaseDate>
+         <shortDescription>Speaker: Richard Smith</shortDescription>
+         <tags>
+            <element>faith</element>
+         </tags>
+         <thumbnail>https://s3.amazonaws.com/hopepoint/Sermon-Stills/2017-04-02-experiencing-god-through-love-joy-and-peace.jpg</thumbnail>
+         <title>Experiencing God Through Love, Joy, and Peace</title>
+      </element>
+      <element>
+         <content>
+            <captions />
+            <dateAdded>2017-03-26T14:14:54.431Z</dateAdded>
+            <duration>2811</duration>
+            <videos>
+               <element>
+                  <quality>HD</quality>
+                  <url>https://player.vimeo.com/external/210278949.m3u8?s=98c2871ed3490858691369e54c612706395429a1</url>
+                  <videoType>HLS</videoType>
+               </element>
+            </videos>
+         </content>
+         <genres>
+            <element>faith</element>
+         </genres>
+         <id>20170326</id>
+         <releaseDate>2017-03-26</releaseDate>
+         <shortDescription>Speaker: Richard Smith</shortDescription>
+         <tags>
+            <element>faith</element>
+         </tags>
+         <thumbnail>https://s3.amazonaws.com/hopepoint/Sermon-Stills/the-dance-of-life.jpg</thumbnail>
+         <title>The Dance of Life</title>
+      </element>
+      <element>
+         <content>
+            <captions />
+            <dateAdded>2017-03-19T14:14:54.431Z</dateAdded>
+            <duration>2940</duration>
+            <videos>
+               <element>
+                  <quality>HD</quality>
+                  <url>https://player.vimeo.com/external/209215003.m3u8?s=090bdef5cd5a10934c68e127876663b9b1dff049</url>
+                  <videoType>HLS</videoType>
+               </element>
+            </videos>
+         </content>
+         <genres>
+            <element>faith</element>
+         </genres>
+         <id>20170319</id>
+         <releaseDate>2017-03-19</releaseDate>
+         <shortDescription>Speaker: Richard Smith</shortDescription>
+         <tags>
+            <element>faith</element>
+         </tags>
+         <thumbnail>https://s3.amazonaws.com/hopepoint/Sermon-Stills/2017-03-19-god-loves-fruit.jpg</thumbnail>
+         <title>God Loves Fruit</title>
+      </element>
+      <element>
+         <content>
+            <captions />
+            <dateAdded>2017-03-12T14:14:54.431Z</dateAdded>
+            <duration>3402</duration>
+            <videos>
+               <element>
+                  <quality>HD</quality>
+                  <url>https://player.vimeo.com/external/208163958.m3u8?s=fc8a138aac256ca4b3a3ef12030a222e9dd84129</url>
+                  <videoType>HLS</videoType>
+               </element>
+            </videos>
+         </content>
+         <genres>
+            <element>faith</element>
+         </genres>
+         <id>20170312</id>
+         <releaseDate>2017-03-12</releaseDate>
+         <shortDescription>Speaker: Richard Smith</shortDescription>
+         <tags>
+            <element>faith</element>
+         </tags>
+         <thumbnail>http://s3.amazonaws.com/hopepoint/Sermon-Stills/make-a-plan-and-go-public-sm.jpg</thumbnail>
+         <title>Make a Plan and Go Public</title>
+      </element>
+      <element>
+         <content>
+            <captions />
+            <dateAdded>2017-03-05T14:14:54.431Z</dateAdded>
+            <duration>3294</duration>
+            <videos>
+               <element>
+                  <quality>HD</quality>
+                  <url>https://player.vimeo.com/external/199692563.m3u8?s=e67da309ecb37485fb8b617e72950e53b8df98fb</url>
+                  <videoType>HLS</videoType>
+               </element>
+            </videos>
+         </content>
+         <genres>
+            <element>faith</element>
+         </genres>
+         <id>20170305</id>
+         <releaseDate>2017-03-05</releaseDate>
+         <shortDescription>Speaker: Richard Smith, Dan Yacoviello, Seth Blanton</shortDescription>
+         <tags>
+            <element>faith</element>
+         </tags>
+         <thumbnail>http://s3.amazonaws.com/hopepoint/Sermon-Stills/elder-testimonies.jpg</thumbnail>
+         <title>Catching Fish and Feeding Sheep</title>
+      </element>
+      <element>
+         <content>
+            <captions />
+            <dateAdded>2017-01-16T14:14:54.431Z</dateAdded>
+            <duration>230</duration>
+            <videos>
+               <element>
+                  <quality>HD</quality>
+                  <url>https://player.vimeo.com/external/203292875.m3u8?s=2f3adfcff8a06ac1257f60c9df3b096307fbbd26</url>
+                  <videoType>HLS</videoType>
+               </element>
+            </videos>
+         </content>
+         <genres>
+            <element>faith</element>
+         </genres>
+         <id>00001</id>
+         <releaseDate>2017-01-15</releaseDate>
+         <shortDescription>The Hope Point Band sings I Am (Holding on to You), music and words by David Crowder and Ed Cash.  Â© 2013 sixsteps Music</shortDescription>
+         <tags>
+            <element>faith</element>
+         </tags>
+         <thumbnail>http://d38hd6z8oh137c.cloudfront.net/music-video/stillframes/i-am.jpg</thumbnail>
+         <title>I Am - Holding on to You</title>
+      </element>
+      <element>
+         <content>
+            <captions />
+            <dateAdded>2017-02-07T14:14:54.431Z</dateAdded>
+            <duration>3600</duration>
+            <videos>
+               <element>
+                  <quality>HD</quality>
+                  <url>http://wowzaprod122-i.akamaihd.net/hls/live/271580/6a6ea996/playlist.m3u8</url>
+                  <videoType>HLS</videoType>
+               </element>
+            </videos>
+         </content>
+         <genres>
+            <element>faith</element>
+         </genres>
+         <id>20170101</id>
+         <longDescription>Sundays at 10:00 AM EST.</longDescription>
+         <releaseDate>2016-06-01</releaseDate>
+         <shortDescription>Worship with us each Sunday at 10:00 AM EST.</shortDescription>
+         <tags>
+            <element>live</element>
+         </tags>
+         <thumbnail>https://s3.amazonaws.com/hproku/images/live-stream-1280.png</thumbnail>
+         <title>Live Stream</title>
+      </element>
+   </tvSpecials>
+</root>

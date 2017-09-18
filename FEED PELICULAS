@@ -12,8 +12,9 @@
 
 <!-- Only content_type="video" is currently supported -->
 <feed content_type="video" sd_img="http://twit.cachefly.net/coverart/kh/kh144videolo.jpg" hd_img="http://twit.cachefly.net/coverart/kh/kh144videolo.jpg">
+-<feed xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-   
+
 -<item hdImg="https://www.cinepolis.com/_MOVIL/Android/cartel/XXHDPI/22686.jpg" sdImg="https://www.cinepolis.com/_MOVIL/Android/cartel/XXHDPI/22686.jpg">
 
 <title>PROPOSITO DE UN PERRO</title>
@@ -463,7 +464,7 @@
 
 -<media>
 
-<streamFormat>mp4</streamFormat>
+<streamFormat>hls</streamFormat>
 
 <streamQuality>hd</streamQuality>
 
@@ -485,7 +486,7 @@
 
 -<media>
 
-<streamFormat>mp4</streamFormat>
+<streamFormat>hls</streamFormat>
 
 <streamQuality>hd</streamQuality>
 
@@ -507,7 +508,7 @@
 
 -<media>
 
-<streamFormat>mp4</streamFormat>
+<streamFormat>hls</streamFormat>
 
 <streamQuality>hd</streamQuality>
 
@@ -529,7 +530,7 @@
 
 -<media>
 
-<streamFormat>mp4</streamFormat>
+<streamFormat>hls</streamFormat>
 
 <streamQuality>hd</streamQuality>
 
@@ -551,7 +552,7 @@
 
 -<media>
 
-<streamFormat>mp4</streamFormat>
+<streamFormat>hls</streamFormat>
 
 <streamQuality>hd</streamQuality>
 
@@ -573,7 +574,7 @@
 
 -<media>
 
-<streamFormat>mp4</streamFormat>
+<streamFormat>hls</streamFormat>
 
 <streamQuality>hd</streamQuality>
 
@@ -595,7 +596,7 @@
 
 -<media>
 
-<streamFormat>mp4</streamFormat>
+<streamFormat>hls</streamFormat>
 
 <streamQuality>hd</streamQuality>
 
@@ -617,7 +618,7 @@
 
 -<media>
 
-<streamFormat>mp4</streamFormat>
+<streamFormat>hls</streamFormat>
 
 <streamQuality>hd</streamQuality>
 
@@ -639,7 +640,7 @@
 
 -<media>
 
-<streamFormat>mp4</streamFormat>
+<streamFormat>hls</streamFormat>
 
 <streamQuality>hd</streamQuality>
 
@@ -661,7 +662,7 @@
 
 -<media>
 
-<streamFormat>mp4</streamFormat>
+<streamFormat>hls</streamFormat>
 
 <streamQuality>hd</streamQuality>
 
@@ -683,7 +684,7 @@
 
 -<media>
 
-<streamFormat>mp4</streamFormat>
+<streamFormat>hls</streamFormat>
 
 <streamQuality>hd</streamQuality>
 
@@ -705,7 +706,7 @@
 
 -<media>
 
-<streamFormat>mp4</streamFormat>
+<streamFormat>hls</streamFormat>
 
 <streamQuality>hd</streamQuality>
 
@@ -727,7 +728,7 @@
 
 -<media>
 
-<streamFormat>mp4</streamFormat>
+<streamFormat>hls</streamFormat>
 
 <streamQuality>hd</streamQuality>
 
@@ -749,7 +750,7 @@
 
 -<media>
 
-<streamFormat>mp4</streamFormat>
+<streamFormat>hls</streamFormat>
 
 <streamQuality>hd</streamQuality>
 
@@ -771,7 +772,7 @@
 
 -<media>
 
-<streamFormat>mp4</streamFormat>
+<streamFormat>hls</streamFormat>
 
 <streamQuality>hd</streamQuality>
 
@@ -793,7 +794,7 @@
 
 -<media>
 
-<streamFormat>mp4</streamFormat>
+<streamFormat>hls</streamFormat>
 
 <streamQuality>hd</streamQuality>
 
@@ -815,7 +816,7 @@
 
 -<media>
 
-<streamFormat>mp4</streamFormat>
+<streamFormat>hls</streamFormat>
 
 <streamQuality>hd</streamQuality>
 
@@ -881,7 +882,7 @@
 
 -<media>
 
-<streamFormat>mp4</streamFormat>
+<streamFormat>mkv</streamFormat>
 
 <streamQuality>hd</streamQuality>
 
@@ -903,7 +904,7 @@
 
 -<media>
 
-<streamFormat>mp4</streamFormat>
+<streamFormat>mkv</streamFormat>
 
 <streamQuality>hd</streamQuality>
 
@@ -991,7 +992,7 @@
 
 -<media>
 
-<streamFormat>mp4</streamFormat>
+<streamFormat>avi</streamFormat>
 
 <streamQuality>hd</streamQuality>
 
@@ -1057,7 +1058,7 @@
 
 -<media>
 
-<streamFormat>mp4</streamFormat>
+<streamFormat>mkv</streamFormat>
 
 <streamQuality>hd</streamQuality>
 
@@ -1101,7 +1102,7 @@
 
 -<media>
 
-<streamFormat>mp4</streamFormat>
+<streamFormat>mkv</streamFormat>
 
 <streamQuality>hd</streamQuality>
 
@@ -1112,4 +1113,5 @@
 </media>
 
 </item>
+
 </feed>

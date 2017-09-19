@@ -1,0 +1,434 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+'********************************************************************
+'
+'       NewVideoPlayer - Example Multi-Level Roku Channel
+'
+' Copyright (c) 2015, belltown. All rights reserved. See LICENSE.txt
+'
+'*********************************************************************
+-->
+
+<!-- Only content_type="video" is currently supported -->
+<feed content_type="video" sd_img="http://twit.cachefly.net/coverart/kh/kh144videolo.jpg" hd_img="http://twit.cachefly.net/coverart/kh/kh144videolo.jpg">
+
+
+-<item hdImg="https://www.cinepolis.com/_MOVIL/Android/cartel/XXHDPI/22686.jpg" sdImg="https://www.cinepolis.com/_MOVIL/Android/cartel/XXHDPI/22686.jpg">
+
+<title>1997 HD RESCATE EN NUEVA YORK 1981 Kurt Russell, Lee Van Cleef 193.mp4</title>
+
+<streamFormat>mp4</streamFormat>
+
+
+-<media>
+
+<streamFormat>mp4</streamFormat>
+
+<streamQuality>hd</streamQuality>
+
+<streamBitrate>1872</streamBitrate>
+
+<streamUrl>http://s14.diskokosmiko.mx/download?e=T6wrP14k-ustwvPr2lvyutLMkbaHU7agudcQTfBImM8W3eopVtVk7aAg7WRDD8tLJqtZrzxykq-8z3XMDAQkyDl5yIbFCv7RmAdDQYjimCISRU_lrRw5GMbOTc8AaBwD0c7_LRLLPNqL-QHwErXlnSQjCXEaUdeVpT-PWDvmvY2-eoDL-uWqDEYjFS343BKikOCGlEUoAjM4ZEsNaSZKzVw11SmuIyP1JyQHWmbqTOBTgmnZh4R0aN52FgyfKHO78wYiT5yZOBWcPC0ssQcYsQ</streamUrl>
+
+</media>
+
+</item>
+
+
+-<item hdImg="https://images-na.ssl-images-amazon.com/images/M/MV5BYTAwZDk5NzItM2U0MS00NDUxLTgwMDAtNzVmZDMxMzMxMWYxXkEyXkFqcGdeQXVyNTAwODk1NzY@._V1_UX182_CR0,0,182,268_AL_.jpg" sdImg="https://images-na.ssl-images-amazon.com/images/M/MV5BYTAwZDk5NzItM2U0MS00NDUxLTgwMDAtNzVmZDMxMzMxMWYxXkEyXkFqcGdeQXVyNTAwODk1NzY@._V1_UX182_CR0,0,182,268_AL_.jpg">
+
+<title>2013 RESCATE EN L. A. 1996 Kurt Russell, Stacy Keach.mp4</title>
+
+<streamFormat>mp4</streamFormat>
+
+
+-<media>
+
+<streamFormat>mp4</streamFormat>
+
+<streamQuality>hd</streamQuality>
+
+<streamBitrate>1872</streamBitrate>
+
+<streamUrl>http://s14.diskokosmiko.mx/download?e=aCGoSKcXp8TaHJy-55GKlNY8AWZtS0a2VoOq2VgXokJfmB69FCeqk37EJ5NhFiIMCxv_AqbAHLJH0o4g65DnGFn1QbNfTRS381Z79f8owciBZX-tEq2AWH-md5DKDpV3YMY62nM7YUkd0GlDVt-UkwbVFtK_4VFKv4B-XGVyqPHl5D_0ffrBRxmeHmri11VUz3WWyRwmRv1UOTKpQ8-GaozcTkIDAxc3_TdPcyR4Ox0FvI8h9c6e83PfvSB29Rll0fFj-EA-mnI2VgBlmhVFHg</streamUrl>
+
+</media>
+
+</item>
+
+
+-<item hdImg="https://3.bp.blogspot.com/--t0McSIIoV4/WNM4Fa9HZSI/AAAAAAAAAB0/X4sz7hd1psUhdQpKDBkw20uIOajMEhCBgCLcB/s640/johnwick2%2Bkingmovie.jpg" sdImg="https://3.bp.blogspot.com/--t0McSIIoV4/WNM4Fa9HZSI/AAAAAAAAAB0/X4sz7hd1psUhdQpKDBkw20uIOajMEhCBgCLcB/s640/johnwick2%2Bkingmovie.jpg">
+
+<title>300 1 HD 2006 Gerard Butler (rey Leónidas),.mp4</title>
+
+<streamFormat>mp4</streamFormat>
+
+
+-<media>
+
+<streamFormat>mp4</streamFormat>
+
+<streamQuality>hd</streamQuality>
+
+<streamBitrate>1872</streamBitrate>
+
+<streamUrl>http://s16.diskokosmiko.mx/download?e=-4n_xhXB612KLrLwBENdWa9ojg30LdOGvLJjASK85Qsh9t3nstXxUSKlh6GSq6OM3Dsrnl4sxUTvAeGpe__spAB-6Ib-2UdTQz-naj02GQfkV8p9X8KKCUulnhLm3nmdv0dcDLYE03yMQ066CEvp3JhADU6xowIH43dpBhfvynFkENMEQ6FcdSFjhc0RP7kN8zN4Lgm6hW3vxnohZsNEeuBEBiu8nM-mHvNnMBCNeCfbCwa_vXFXBoMEUtyQM8Gm</streamUrl>
+
+</media>
+
+</item>
+
+
+-<item hdImg="http://www.wapelis.com/img_peliculas/ver-mientras-el-lobo-no-esta.jpg" sdImg="http://www.wapelis.com/img_peliculas/ver-mientras-el-lobo-no-esta.jpg">
+
+<title>300 2 HD EL ORIGEN DE UN IMPERIO 2014 Sullivan Stapleton, Eva Green,HDRip_.mp4</title>
+
+<streamFormat>mp4</streamFormat>
+
+
+-<media>
+
+<streamFormat>mp4</streamFormat>
+
+<streamQuality>hd</streamQuality>
+
+<streamBitrate>1872</streamBitrate>
+
+<streamUrl>http://s14.diskokosmiko.mx/download?e=jOQVZ7abn_otBlsAfGbdWHTQmz0uWhllhieoIPtyJYZX9TLlfnx4gu5TZtQVPguNPlDKfIF4ry49bjqvYzN-9mmQmMjkTtqYvGGaYzrMLlaCAEoUyCBv5zDi7nw5V1UEflKiVFAlugGojFIXQxocQ0XdwnFf1Idv8JF7SoD5Pp2s5aN2K33bPGxJUwSH-gFf9i9CsigAQJUfwROn2lFnd1AAtiopDPggYVLlfAaxHYnay6an_wmVsiv92JtE1KFYJxk5NYD80K5kRh682wqD21UQJSJwq15SvP5-wa3GCaU</streamUrl>
+
+</media>
+
+</item>
+
+
+-<item hdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg" sdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg">
+
+<title>AHORA ME VES HD 2013 Morgan  Freeman, Mark  Ruffalo, HD.mp4</title>
+
+<streamFormat>mp4</streamFormat>
+
+
+-<media>
+
+<streamFormat>mp4</streamFormat>
+
+<streamQuality>hd</streamQuality>
+
+<streamBitrate>1872</streamBitrate>
+
+<streamUrl>http://s15.diskokosmiko.mx/download?e=a5eqRLUqvIc5IClIXvjCBen7TCaImtwHuQXOxI-MJG6k-j0JPa-H-s4gQLgf08-VihpclO6jbeHYhfsK2l5JxHBs3BYlCjcQsScFTdLn23oRvMaUXp3r09fKJrjpHNdX3dcfMb8lrqO_oWrRv1aQBbSImbgt6A0XO1hMqVw5WYWfeEHQB0AlBprkxtzFTgsRAFCJRsmdZx26-xzSIyzr2Abg7vsG7ZjNzQVlU7Tw5UhKn5o4NS8GC5m5RVtnPSq4wh5gTyeOuDuxfSfFopP6Qs-nABzR2nJ4-yzS_x0rYHE</streamUrl>
+
+</media>
+
+</item>
+
+
+-<item hdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg" sdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg">
+
+<title>ANARCHY LA NOCHE DE LAS BESTIAS HD Frank Grillo, Carmen Ejogo2014.HDRip.il.mp4</title>
+
+<streamFormat>mp4</streamFormat>
+
+
+-<media>
+
+<streamFormat>mp4</streamFormat>
+
+<streamQuality>hd</streamQuality>
+
+<streamBitrate>1872</streamBitrate>
+
+<streamUrl>http://s16.diskokosmiko.mx/download?e=Zw45o0ojhBRGCfnzbCxOfVyuZjTvz2hvypDHNY4dx3JIF1XH5s-TANKg_Eo1I7BxwnrUN670k8MBtoqaGWIJCSzONWE-jmSA_G0qAj2IYClfnvlFABHJN6jRs-bjBbVS49kPvdp7tkzdiTLtL3kvYU3RgS93I-qwUN38tJuop6x10Jxsn5bbn9y33A6EVusFl9LYyVgX5YOz4NjzdA-0nIPPe_zhw2rPzNGvlZWkiYN7cROFb9M792IbpdvUI8ma3IUp3cQv8F7OjvUJ74t09vSKrCZSAp_oD1F8ymrHNY4</streamUrl>
+
+</media>
+
+</item>
+
+
+-<item hdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg" sdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg">
+
+<title>ANGEL DE LA MUERTE Angel of Death 2009 Zoe Bell, Jake Abel.avi</title>
+
+<streamFormat>avi</streamFormat>
+
+
+-<media>
+
+<streamFormat>avi</streamFormat>
+
+<streamQuality>hd</streamQuality>
+
+<streamBitrate>1872</streamBitrate>
+
+<streamUrl>http://s17.diskokosmiko.mx/download?e=OkYB3atHYFYN8-GblLozeY2gIU1ZhAtkunhGcKc_5ygK6CNp86sAASEdSsf54XJM3uisSwlfplaMewMJUNMBPNAYZtBk0ZEb-eMWTilkWh46_iRHf-uuZWNes1JN0cl-QczmUuIPG1Fw-3F91vJK3RjZsoDKGDECyVTNN_1JKn_gVi94HOZwzw8hbAJb_66zhGl849JDShDz9fz8a2yg7XonaQyQAkinNBYq9O4qRlZkzEgWHIGM8JqzgIYQsPZyMw6Mz0e30aRWoTnVyP1C7A</streamUrl>
+
+</media>
+
+</item>
+
+
+-<item hdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg" sdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg">
+
+<title>ARMA LETAL 1 HD 1987 Mel Gibson, Danny Glove.mp4</title>
+
+<streamFormat>mp4</streamFormat>
+
+
+-<media>
+
+<streamFormat>mp4</streamFormat>
+
+<streamQuality>hd</streamQuality>
+
+<streamBitrate>1872</streamBitrate>
+
+<streamUrl>http://s17.diskokosmiko.mx/download?e=e5S_tsdvKwv0tauDDLlX7SfSFu5s8i3NogYGAlAdkXux3rCHI8U4_WCE6IST75O7FYS5SdhyhY0ss_JFMgq4D_UA-zjSnvdEMfP-kVeFTNLO4xZinVNACR1dXiRJKmCcU2rOJiNzI3kD_djwjJeaKqLEKL1Pt39-GQ0GFb9RlTwmqh2Z_wuA8yAhI638nFgzPYa58DsdS8MqlwdT4oQWaTQLEDXvDSVIdA2w9sIUF8pblwQPu1i01-kRyftmDw83</streamUrl>
+
+</media>
+
+</item>
+
+
+-<item hdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg" sdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg">
+
+<title>Arma letal 2 (1989)Mel Gibson, Danny Glove.mp4</title>
+
+<streamFormat>mp4</streamFormat>
+
+
+-<media>
+
+<streamFormat>mp4</streamFormat>
+
+<streamQuality>hd</streamQuality>
+
+<streamBitrate>1872</streamBitrate>
+
+<streamUrl>http://s15.diskokosmiko.mx/download?e=Kks0lOSQIrNckuOan86tDFsC3lv94OS0CuNxj_tXVLaUpVQgKLP30wxYnrCTki1GNZlxmrJDWAx2pZ7EWh0Yf5lZfvbqyneXF5fMnBgC3L47kSzqVEFLXxLGSifsQTWxGsiFj-NKtoEC2zyDgu4vfjWGIGzjk7m098R3EBCF8DCAnosoUJKPSgq1Hg2CMZEOAFDoYXMXcdUh8dwKQDAY3RqabgXWWqoethltJtcsLakUy_wo3O8kqQZXrFtExIXx</streamUrl>
+
+</media>
+
+</item>
+
+
+-<item hdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg" sdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg">
+
+<title>Asalto_Al_Poder_2013_HDrip Channing Tatum.mp4</title>
+
+<streamFormat>mp4</streamFormat>
+
+
+-<media>
+
+<streamFormat>mp4</streamFormat>
+
+<streamQuality>hd</streamQuality>
+
+<streamBitrate>1872</streamBitrate>
+
+<streamUrl>http://s14.diskokosmiko.mx/download?e=0862T3Jyoqf66r3wLbhjm46cylvlfTTemQsADaKCftVu_cFmflBfevWKfycgXbtjNYtYXg0dWrkoKHTQxywlvDg9vhU2CDAeREtwwiTjPli-ibBWEBJR2tXjJyYqSHUFuIysaTAJ6vb8Fgkilgj9HMBIRct8_5KTprqu8596ybsvSVWiTJPtMB--ebporjEbXSCdrBu1mW0PxWLz1esTcAKeiTX-AhdxGcd3GBLliypf_UocRnB3nSYH61TjQ0L4</streamUrl>
+
+</media>
+
+</item>
+
+
+-<item hdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg" sdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg">
+
+<title>ASESINOS STALLONE Y BANDERAS 1995.mp4</title>
+
+<streamFormat>mp4</streamFormat>
+
+
+-<media>
+
+<streamFormat>mp4</streamFormat>
+
+<streamQuality>hd</streamQuality>
+
+<streamBitrate>1872</streamBitrate>
+
+<streamUrl>http://s17.diskokosmiko.mx/download?e=h7uXfEZ7HkchlMBp9NfyJeNieO-V35LGBAfEqytN4h0nrI-h5IyRcBqP7KZTdRTtTv61UldVhuBgEgrwW950X8b13BaZ3qksXwQYINJhqwJQ65OwK3agI5BCPvGmUkEY8dThYRYfN1-wm4v5a2MDd91Df5QoOAgpzDeHWmMEafiDMqJynn0pEFU5ZzhhKuclQn-g4kOl624LqqCiDZQDWSq5BG72kwwuQOPK4m8kgJU</streamUrl>
+
+</media>
+
+</item>
+
+
+-<item hdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg" sdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg">
+
+<title>ASESINOS DE ELITE HD Jason Statham (2011).HDrip.mp4</title>
+
+<streamFormat>mp4</streamFormat>
+
+
+-<media>
+
+<streamFormat>mp4</streamFormat>
+
+<streamQuality>hd</streamQuality>
+
+<streamBitrate>1872</streamBitrate>
+
+<streamUrl>http://s17.diskokosmiko.mx/download?e=ORyDk_nFEl5JIeME4ZOTpMGEZT6By88L_bV1M9W7Saa83OjOe2wCEOyGa-7y-VgdQIpO2AvZ-MjpmGcUAAtPoEXc6JfS_IVRmJh4cCEoqUyBuZWFV1-lX-qF8sYWG21nG71Ssqs82vs9efCki-ILGnxAfPWywqoyGK_BD9YxXeHSPVT-tQpV3g8lgHl28FB6DNtPfy0BgkKVO60Dx6w-LXZDsPIVdrOp-LaJ3SfoGhRpPeZFtxym9Uo3pSnWMw6J</streamUrl>
+
+</media>
+
+</item>
+
+
+-<item hdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg" sdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg">
+
+<title>AZUMI 1 2003 Aya Ueto, Shun Oguri.mp4</title>
+
+<streamFormat>mp4</streamFormat>
+
+
+-<media>
+
+<streamFormat>mp4</streamFormat>
+
+<streamQuality>hd</streamQuality>
+
+<streamBitrate>1872</streamBitrate>
+
+<streamUrl>http://s15.diskokosmiko.mx/download?e=zP03Qn2IP0aFnNo6e3eicPe5e1P8Fw1TllVh6BdeuLM6iBLPpZDkHpayYAZdbzH6KolXXz6IslFwlDTqwfJQH7hs60XBw8JDZToEqjJZOg2AGRhstrsT3_FmMnzlOacXJYIGzJIaAdl2y8AumAdk7lqqvku57Zv2NJ1nz0pWFth9ZqKBN33gTnVDoN1-624tee5T_WeF_Sc9iTQBkjd5m-roLeeMnzXghr9Jrs0RLGc</streamUrl>
+
+</media>
+
+</item>
+
+
+-<item hdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg" sdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg">
+
+<title>Azumi 2 Death or love hd(2005) Aya Ueto, Yuma Ishikagi.mp4</title>
+
+<streamFormat>mp4</streamFormat>
+
+
+-<media>
+
+<streamFormat>mp4</streamFormat>
+
+<streamQuality>hd</streamQuality>
+
+<streamBitrate>1872</streamBitrate>
+
+<streamUrl>http://s17.diskokosmiko.mx/download?e=FxVH5vFX8ZfYm-gmyzkh7yKDF_zwe3KMCM8vNfSCL6sUan89C8S9TAd9cfJNLS36uNmPZpFN-RMcS1DXgMcTx4gsxAZYkuc85bT68KaUcwBXW3BYlerYL-u0kq4-7G0tArSL5B5g4mdTMZ8PuVJjhD4kg_9u7QMAynMxa-a-jSGiE2wzgw0SdA6peUz-QrLkCn-62Nw2eGt7_L43wYrS6rlCR1BHT_wmVMZJzPz9W0hOUAVuoGrSyeBBMm72Fk4ZSNlojvxOqxBva01ZJf93DQ</streamUrl>
+
+</media>
+
+</item>
+
+
+-<item hdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg" sdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg">
+
+<title>Battle Royale 1 2000 Beat Takeshi (Takeshi Kitano) 720p.YK_2.mp4</title>
+
+<streamFormat>mp4</streamFormat>
+
+
+-<media>
+
+<streamFormat>mp4</streamFormat>
+
+<streamQuality>hd</streamQuality>
+
+<streamBitrate>1872</streamBitrate>
+
+<streamUrl>http://s17.diskokosmiko.mx/download?e=s7irT9B7lGwC6cABvAj8vmI6nLSz8azeAqhzLU-P7lyPfV4CZvqEkikTSkmOQ6N6GheG2n6c1nbPSKEF0yLnaqt03IEODL4yKw106L4kWm4zE0idTayyoEaUX1k01f-QlqfqrXBUqaTt-68hRHU4ci6e_1o_sOxe7rhHAofC_oVr-3_xziYg06nv7Q9Q49ylNBbz2YDF0pI5-VA6T2o582kyDtTZuk9KqLWliObSl8fwx6WG8rpeEoTTl8_bK6jVcsV7iKQ7i-TxQ83cgEa1Wg</streamUrl>
+
+</media>
+
+</item>
+
+
+-<item hdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg" sdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg">
+
+<title>Battle Royale 2 hd Réquiem 2003 Tatsuya Fujiwara, Ayana Sakai.mp4</title>
+
+<streamFormat>mp4</streamFormat>
+
+
+-<media>
+
+<streamFormat>mp4</streamFormat>
+
+<streamQuality>hd</streamQuality>
+
+<streamBitrate>1872</streamBitrate>
+
+<streamUrl>http://s16.diskokosmiko.mx/download?e=OTnkJK_BeeeqjwKlanjaqqXT3RGiTB9ODEOPl79t2Suh89_H0MC-WEZW6mJHVyovloTkfzBIXgOndoO0AcZCyuq2p6KVQRY7LGh3l2Q6sk6xVQeaZumnztle2Q2ghGuCdek2fJsDkfDRUxUTNpsJiVsMqINYYGc-ZVJwKGy3QHYPANg3g84VJwMj2MltpfK05UBpzWFw5ML6fnmSGd_OJJyt9XTnFDd5MYuMxbGWbRPf3Uqi-nwXtsHU5CByjzbCRiIx2pwl59-_N3hKAH-2Nw</streamUrl>
+
+</media>
+
+</item>
+
+
+-<item hdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg" sdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg">
+
+<title>BLANCANIEVES LA LEYENDA DEL CAZADOR HD Kristen Stewart, Chris Hemsworth.HDR.mp4</title>
+
+<streamFormat>mp4</streamFormat>
+
+
+-<media>
+
+<streamFormat>mp4</streamFormat>
+
+<streamQuality>hd</streamQuality>
+
+<streamBitrate>1872</streamBitrate>
+
+<streamUrl>http://s17.diskokosmiko.mx/download?e=xzq4xlVqgcRgk20d0g030muJdX4BKKoF6wNkSnhI27PAonVqVGmvH08atqBKcAmbJ-UhcZitn-rRFnYLn2zL1Cl9Pe1QgCEGB9fwvxsC2FqUJObnU0FESFxC5LfW72s2DIZywkXmjnk1yBV0wcboixKiMMeo-SZvKq922_Sv85XQiQSUgXlEfdKXn-xQX9qppVYD6O2DQ4VJmezxW5knX_P5Da8FwiYlT8mvE_uTe5ItcjQTSFl8TFI_4LEu7PqH4PnoroDGgd3f1wm9L4SghpohY_YSbI0ZZY3kyja7rRE</streamUrl>
+
+</media>
+
+</item>
+
+
+-<item hdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg" sdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg">
+
+<title>BLANCO HUMANO , HD Jean-Claude Van Damme HD.mp4</title>
+
+<streamFormat>mp4</streamFormat>
+
+
+-<media>
+
+<streamFormat>mp4</streamFormat>
+
+<streamQuality>hd</streamQuality>
+
+<streamBitrate>1872</streamBitrate>
+
+<streamUrl>http://s14.diskokosmiko.mx/download?e=NUZ_Oqm21bxqbIuWOoDBOop7svCvwMKL3INIcxgPyEPtWt9qZi8KNKGrycU5sfoj8yAKba0qjSiCzdUOR1GEMEBYTP5Sl-GwSn19cpLmI_CPXUa4gpLaJ5Sz2IHlHVuVhhL53Ag1jZ5i-aRITPart-RGukSAfEr0OAhzhSSb9BlsQQQbCRy4QYsNToOWvDT28FthJK--th9qEa70KycO0ZysFCXhsrElv_A1TFed6xmZp5MX8H9txbeq84tNrslk</streamUrl>
+
+</media>
+
+</item>
+
+
+-<item hdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg" sdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg">
+
+<title>BRICK MANSIONS HD (La fortaleza) Paul Walker, David Belle HD014__BDRip_m720p_AC3_2.0-5.1_Castellano.mp4</title>
+
+<streamFormat>mp4</streamFormat>
+
+
+-<media>
+
+<streamFormat>mp4</streamFormat>
+
+<streamQuality>hd</streamQuality>
+
+<streamBitrate>1872</streamBitrate>
+
+<streamUrl>http://s17.diskokosmiko.mx/download?e=gJw0EFYay4Do81kWY6hTL9LzcPjpmF-ErbJAZvmYK2NHswWfagPxtp3IPa8npizJM8clcchSlu_CGX87R8Pa9s4ifBYSs663MGj8wjUSDQR6boLnA-FFXcCDtNW5VHHIxezajVpP18l0PjvehJqw_ba4qrGLJEgMXNU3oxfArDpcImdnOsIjzBQqiO1AeOZHTLW952MSfrxJRDZlYTfsfXLPQUSEd3pAdwbbjVx_h3jUbT6zF6t9QMG2DGGyV4_9Qoiko9r3iB_dHOXNoA8x5i2-KlLfKiDj64vHYy-J_OOwT5Vt93hHrDYvWBqc6J2I</streamUrl>
+
+</media>
+
+</item>
+
+</feed>

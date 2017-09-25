@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+'********************************************************************
+'
+'       NewVideoPlayer - Example Multi-Level Roku Channel
+'
+' Copyright (c) 2015, belltown. All rights reserved. See LICENSE.txt
+'
+'*********************************************************************
+-->
+
+<!-- Only content_type="video" is currently supported -->
+<feed content_type="video" sd_img="http://twit.cachefly.net/coverart/kh/kh144videolo.jpg" hd_img="http://twit.cachefly.net/coverart/kh/kh144videolo.jpg">
+<item sdImg="https://www.cinepolis.com/_MOVIL/Android/cartel/XXHDPI/22686.jpg" hdImg="https://www.cinepolis.com/_MOVIL/Android/cartel/XXHDPI/22686.jpg">
+		<title>Noche de venganza</title>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamFormat>m4v</streamFormat>
+			<streamQuality>hd</streamQuality>
+			<streamBitrate>1872</streamBitrate>
+			<streamUrl>http://www.cinevall.com/videos/noche_de_venganza.m4v</streamUrl>
+		</media>
+	</item>
+	<item sdImg="https://images-na.ssl-images-amazon.com/images/M/MV5BYTAwZDk5NzItM2U0MS00NDUxLTgwMDAtNzVmZDMxMzMxMWYxXkEyXkFqcGdeQXVyNTAwODk1NzY@._V1_UX182_CR0,0,182,268_AL_.jpg" hdImg="https://images-na.ssl-images-amazon.com/images/M/MV5BYTAwZDk5NzItM2U0MS00NDUxLTgwMDAtNzVmZDMxMzMxMWYxXkEyXkFqcGdeQXVyNTAwODk1NzY@._V1_UX182_CR0,0,182,268_AL_.jpg">
+		<title>Pandora</title>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamFormat>m4v</streamFormat>
+			<streamQuality>hd</streamQuality>
+			<streamBitrate>1872</streamBitrate>
+			<streamUrl>http://www.cinevall.com/videos/pandora.m4v</streamUrl>
+		</media>
+	</item>
+	<item sdImg="https://3.bp.blogspot.com/--t0McSIIoV4/WNM4Fa9HZSI/AAAAAAAAAB0/X4sz7hd1psUhdQpKDBkw20uIOajMEhCBgCLcB/s640/johnwick2%2Bkingmovie.jpg" hdImg="https://3.bp.blogspot.com/--t0McSIIoV4/WNM4Fa9HZSI/AAAAAAAAAB0/X4sz7hd1psUhdQpKDBkw20uIOajMEhCBgCLcB/s640/johnwick2%2Bkingmovie.jpg">
+		<title>XXX: Reactivado</title>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamFormat>m4v</streamFormat>
+			<streamQuality>hd</streamQuality>
+			<streamBitrate>1872</streamBitrate>
+			<streamUrl>http://www.cinevall.es/videos/xxx.m4v</streamUrl>
+		</media>
+	</item>
+	<item sdImg="http://www.wapelis.com/img_peliculas/ver-mientras-el-lobo-no-esta.jpg" hdImg="http://www.wapelis.com/img_peliculas/ver-mientras-el-lobo-no-esta.jpg">
+		<title>Comancheria</title>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamFormat>m4v</streamFormat>
+			<streamQuality>hd</streamQuality>
+			<streamBitrate>1872</streamBitrate>
+			<streamUrl>http://www.cinevall.es/videos/comancheria.m4v</streamUrl>
+		</media>
+	</item>
+	<item sdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg" hdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg">
+		<title>Inferno</title>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamFormat>m4v</streamFormat>
+			<streamQuality>hd</streamQuality>
+			<streamBitrate>1872</streamBitrate>
+			<streamUrl>http://www.cinevall.es/videos/infierno.m4v</streamUrl>
+		</media>
+	</item>
+	<item sdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg" hdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg">
+		<title>Atentado en paris</title>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamFormat>m4v</streamFormat>
+			<streamQuality>hd</streamQuality>
+			<streamBitrate>1872</streamBitrate>
+			<streamUrl>http://www.cinevall.es/videos/atentado_en_paris.m4v</streamUrl>
+		</media>
+	</item>
+	<item sdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg" hdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg">
+		<title>Jack Reacher</title>
+		<streamFormat>avi</streamFormat>
+		<media>
+			<streamFormat>m4v</streamFormat>
+			<streamQuality>hd</streamQuality>
+			<streamBitrate>1872</streamBitrate>
+			<streamUrl>http://www.cinevall.es/videos/jack_reacher.m4v</streamUrl>
+		</media>
+	</item>
+	<item sdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg" hdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg">
+		<title>Bus 657</title>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamFormat>m4v</streamFormat>
+			<streamQuality>hd</streamQuality>
+			<streamBitrate>1872</streamBitrate>
+			<streamUrl>http://www.cinevall.es/videos/bus_657.m4v</streamUrl>
+		</media>
+	</item>
+	<item sdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg" hdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg">
+		<title>Gladiator</title>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>hd</streamQuality>
+			<streamBitrate>1872</streamBitrate>
+			<streamUrl>https://storage.googleapis.com/visit-dupleplaycom.appspot.com/cuevana2/cj7s2ahkx01u7epsd1k81o2cj.mp4</streamUrl>
+		</media>
+	</item>
+	<item sdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg" hdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg">
+		<title>Death Race</title>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>hd</streamQuality>
+			<streamBitrate>1872</streamBitrate>
+			<streamUrl>https://storage.googleapis.com/visit-dupleplaycom.appspot.com/cuevana2/cj7iegrda08327qsd15w78ivp.mp4</streamUrl>
+		</media>
+	</item>
+	<item sdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg" hdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg">
+		<title>Guardianes de la Galaxia 2</title>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>hd</streamQuality>
+			<streamBitrate>1872</streamBitrate>
+			<streamUrl>https://storage.googleapis.com/visit-dupleplaycom.appspot.com/cuevana2/cj7ji48ny04703csddeywlmoh.mp4</streamUrl>
+		</media>
+	</item>
+	<item sdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg" hdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg">
+		<title>Persecución mortal</title>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>hd</streamQuality>
+			<streamBitrate>1872</streamBitrate>
+			<streamUrl>https://storage.googleapis.com/visit-dupleplaycom.appspot.com/cuevana2/cj7a0kp4k02rta9smmxvhw172.mp4</streamUrl>
+		</media>
+	</item>
+	<item sdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg" hdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg">
+		<title>Z, la ciudad perdida</title>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>hd</streamQuality>
+			<streamBitrate>1872</streamBitrate>
+			<streamUrl>https://storage.googleapis.com/visit-dupleplaycom.appspot.com/cuevana2/cj7clrxii09sc4usddhz24dzd.mp4</streamUrl>
+		</media>
+	</item>
+	<item sdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg" hdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg">
+		<title>Ella es un monstruo</title>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>hd</streamQuality>
+			<streamBitrate>1872</streamBitrate>
+			<streamUrl>https://storage.googleapis.com/visit-dupleplaycom.appspot.com/cuevana2/cj7e64phx0xk74usds6eq7mh7.mp4</streamUrl>
+		</media>
+	</item>
+	<item sdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg" hdImg="http://frikilogia.com/wp-content/uploads/2012/01/tecnologia-organiza-tu-coleccion-de-peliculas-la-b.jpg">
+		<title>Un golpe con estilo</title>
+		<streamFormat>mp4</streamFormat>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>hd</streamQuality>
+			<streamBitrate>1872</streamBitrate>
+			<streamUrl>https://storage.googleapis.com/visit-dupleplaycom.appspot.com/cuevana2/cj7cmg7v90aic4usdy8ytqvbq.mp4</streamUrl>
+		</media>
+	</item>
+ </feed>

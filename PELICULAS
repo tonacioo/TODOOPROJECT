@@ -40,18 +40,18 @@
 		</media>
 	</item>
 	<item sdImg="https://68.media.tumblr.com/avatar_81911b1db9bd_128.png" hdImg="https://68.media.tumblr.com/avatar_81911b1db9bd_128.png">
-		<title>pruebaa (2017)</title>
+		<title>LOGAN (2017)</title>
 		<media>
-			<streamFormat>MP4</streamFormat>
+			<streamFormat>mkv</streamFormat>
 			<streamQuality>HD</streamQuality>
 			<streamBitrate>1872</streamBitrate>
-			<streamUrl>https://openload.co/embed/4C2OoICbCPs/</streamUrl>
+			<streamUrl>https://ia801500.us.archive.org/14/items/3453453545645645645/17052017_AQC.mkv</streamUrl>
 		</media>
 	</item>
 	<item sdImg="https://68.media.tumblr.com/avatar_81911b1db9bd_128.png" hdImg="https://68.media.tumblr.com/avatar_81911b1db9bd_128.png">
 		<title>Jefe En Pañales (2017)</title>
 		<media>
-			<streamFormat>MP4</streamFormat>
+			<streamFormat>mkv</streamFormat>
 			<streamQuality>HD</streamQuality>
 			<streamBitrate>1872</streamBitrate>
 			<streamUrl>https://ia801507.us.archive.org/24/items/19052017Aqc7248973648297/19052017_aqc.mkv</streamUrl>
@@ -60,7 +60,7 @@
 	<item sdImg="https://68.media.tumblr.com/avatar_81911b1db9bd_128.png" hdImg="https://68.media.tumblr.com/avatar_81911b1db9bd_128.png">
 		<title>Emoji La Pelicula CAM</title>
 		<media>
-			<streamFormat>MP4</streamFormat>
+			<streamFormat>mkv</streamFormat>
 			<streamQuality>HD</streamQuality>
 			<streamBitrate>1872</streamBitrate>
 			<streamUrl>https://archive.org/download/5135156265284189165251/Emoji.La.pelicula.Cam%2cLatino.SrRegio.mkv</streamUrl>
@@ -69,7 +69,7 @@
 	<item sdImg="https://68.media.tumblr.com/avatar_81911b1db9bd_128.png" hdImg="https://68.media.tumblr.com/avatar_81911b1db9bd_128.png">
 		<title>Dia del atentado</title>
 		<media>
-			<streamFormat>MP4</streamFormat>
+			<streamFormat>mkv</streamFormat>
 			<streamQuality>HD</streamQuality>
 			<streamBitrate>1872</streamBitrate>
 			<streamUrl>https://archive.org/download/2526515142652354/Dia.Del.Atentado.1080p.SrRegio.mkv</streamUrl>
@@ -114,7 +114,7 @@
 	<item sdImg="https://68.media.tumblr.com/avatar_81911b1db9bd_128.png" hdImg="https://68.media.tumblr.com/avatar_81911b1db9bd_128.png">
 		<title>The Big Sick SD BluRayRiP | 2017</title>
 		<media>
-			<streamFormat>MP4</streamFormat>
+			<streamFormat>mkv</streamFormat>
 			<streamQuality>HD</streamQuality>
 			<streamBitrate>1872</streamBitrate>
 			<streamUrl>https://ia601502.us.archive.org/33/items/chayoterodance_Track066/chayoterodance_Track066.mp4?CONEXION?null=?mkv</streamUrl>
@@ -195,7 +195,7 @@
 	<item sdImg="https://68.media.tumblr.com/avatar_81911b1db9bd_128.png" hdImg="https://68.media.tumblr.com/avatar_81911b1db9bd_128.png">
 		<title>Security</title>
 		<media>
-			<streamFormat>MP4</streamFormat>
+			<streamFormat>mkv</streamFormat>
 			<streamQuality>HD</streamQuality>
 			<streamBitrate>1872</streamBitrate>
 			<streamUrl>https://ia601502.us.archive.org/35/items/security_20170923/security.mkv</streamUrl>
@@ -204,7 +204,7 @@
 	<item sdImg="https://68.media.tumblr.com/avatar_81911b1db9bd_128.png" hdImg="https://68.media.tumblr.com/avatar_81911b1db9bd_128.png">
 		<title>El Libro De Henry</title>
 		<media>
-			<streamFormat>MP4</streamFormat>
+			<streamFormat>mkv</streamFormat>
 			<streamQuality>HD</streamQuality>
 			<streamBitrate>1872</streamBitrate>
 			<streamUrl>https://ia601505.us.archive.org/9/items/cecegeek/henry.mkv</streamUrl>
@@ -267,7 +267,7 @@
 	<item sdImg="https://68.media.tumblr.com/avatar_81911b1db9bd_128.png" hdImg="https://68.media.tumblr.com/avatar_81911b1db9bd_128.png">
 		<title>Piratas del Caribe 5</title>
 		<media>
-			<streamFormat>MP4</streamFormat>
+			<streamFormat>mkv</streamFormat>
 			<streamQuality>HD</streamQuality>
 			<streamBitrate>1872</streamBitrate>
 			<streamUrl>https://archive.org/download/Documentode.SRREGIO.NET/Piratas.del.Caribe.5.Latino.SRREGI.NET.mkv</streamUrl>
@@ -276,7 +276,7 @@
 	<item sdImg="https://68.media.tumblr.com/avatar_81911b1db9bd_128.png" hdImg="https://68.media.tumblr.com/avatar_81911b1db9bd_128.png">
 		<title>Transformers 5</title>
 		<media>
-			<streamFormat>MP4</streamFormat>
+			<streamFormat>mkv</streamFormat>
 			<streamQuality>HD</streamQuality>
 			<streamBitrate>1872</streamBitrate>
 			<streamUrl>https://archive.org/download/docuentos.SRREGIO.NET/Transformers.5.Latino.SRREGIO.NET.mkv</streamUrl>
@@ -488,6 +488,6 @@
 			<streamBitrate>1872</streamBitrate>
 			<streamUrl>http://cecegeek@goo.gl/qFnNHF</streamUrl>
 		</media>
-   </item>
+	</item>
 
 </feed>
